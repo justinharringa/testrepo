@@ -1,0 +1,5 @@
+deploy:
+  env:
+  - secure: 
+  provider: script
+  script: ./test.sh

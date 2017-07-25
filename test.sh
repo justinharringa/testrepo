@@ -1,2 +1,2 @@
 #/bin/bash
-echo "${MYENV}"
+echo "My env: ${MYENV}"
